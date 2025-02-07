@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Arsenal",
+        "logo": "/src/assets/icons/arsenal.png"
+    },
+    {
+        "name": "Atalanta",
+        "logo": "/src/assets/icons/atalanta.png"
+    },
+    {
+        "name": "Atlético de Madrid",
+        "logo": "/src/assets/icons/atletico-de-madrid.png"
+    },
+    {
+        "name": "Barcelona",
+        "logo": "/src/assets/icons/barcelona.png"
+    },
+    {
+        "name": "Bayer Leverkusen",
+        "logo": "/src/assets/icons/bayern-leverkusen.png"
+    },
+    {
+        "name": "Bayern Munich",
+        "logo": "/src/assets/icons/bayern-munich.png"
+    },
+    {
+        "name": "Borussia Dortmund",
+        "logo": "/src/assets/icons/borussia-dortmund.png"
+    },
+    {
+        "name": "Borussia Monchengladbach",
+        "logo": "/src/assets/icons/borussia-monchengladach.png"
+    },
+    {
+        "name": "Chelsea",
+        "logo": "/src/assets/icons/chelsea.png"
+    },
+    {
+        "name": "Manchester City",
+        "logo": "/src/assets/icons/ciudad-de-manchester.png"
+    },
+    {
+        "name": "Inter de Milan",
+        "logo": "/src/assets/icons/internazionale-milano.png"
+    },
+    {
+        "name": "Juventus",
+        "logo": "/src/assets/icons/juventus.png"
+    },
+    {
+        "name": "Leipzig",
+        "logo": "/src/assets/icons/leipzig.png"
+    },
+    {
+        "name": "Liverpool",
+        "logo": "/src/assets/icons/liverpool.png"
+    },
+    {
+        "name": "Manchester United",
+        "logo": "/src/assets/icons/manchester-unido.png"
+    },
+    {
+        "name": "AC Milan",
+        "logo": "/src/assets/icons/milan.png"
+    },
+    {
+        "name": "Mónaco",
+        "logo": "/src/assets/icons/monaco.png"
+    },
+    {
+        "name": "Nápoles",
+        "logo": "/src/assets/icons/napoles.png"
+    },
+    {
+        "name": "Lyon",
+        "logo": "/src/assets/icons/olympique-de-lyon.png"
+    },
+    {
+        "name": "Marsella",
+        "logo": "/src/assets/icons/olympique-de-marsella.png"
+    },
+    {
+        "name": "Paris Saint Germain",
+        "logo": "/src/assets/icons/paris-saint-germain.png"
+    },
+    {
+        "name": "Real Madrid",
+        "logo": "/src/assets/icons/real-madrid.png"
+    },
+    {
+        "name": "Sevilla",
+        "logo": "/src/assets/icons/sevilla.png"
+    },
+    {
+        "name": "Tottenham Hotspur",
+        "logo": "/src/assets/icons/tottenham-hotspur.png"
+    }
+]
