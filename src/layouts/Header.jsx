@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import icon from '../assets/icon.png';
+import icon from '/src/assets/icon.png';
 
 const Header = () => {
     return (
